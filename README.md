@@ -6,8 +6,6 @@ This repository is part of my pull request contribution plan.It contains a basic
 
 ## Installation
 
-## Usage
-
 ## Testing
 
 Basic tests will be added in future updates.
